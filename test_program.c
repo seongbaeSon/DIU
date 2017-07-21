@@ -48,7 +48,7 @@ int main(int argc, const char * argv[])
 {
 	int file_num, record_size;
 	unsigned long time;
-    char ch, type;
+	char ch, type;
 
 	file_num = atoi(argv[1]);
 	record_size = atoi(argv[2]);
